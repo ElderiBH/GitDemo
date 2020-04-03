@@ -24,5 +24,10 @@ public void elementsUI2()
 	System.out.println("elementsUI2");
 }
 
+@Test
+public void elementsUI3()
+{
+	System.out.println("elementsUI3");
+}
 
 }
